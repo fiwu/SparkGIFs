@@ -74,11 +74,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-11-22T23:06:42Z</date>
+	<date>2017-11-23T00:24:34Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -218,7 +218,7 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>162</real>
+		<real>91</real>
 		<key>mainWindowFrame</key>
 		<string>1438 -121 1920 998 1440 -180 1920 1057 </string>
 		<key>openTabs</key>
@@ -264,7 +264,7 @@
 	<key>monotypeProjectID</key>
 	<string>BA112F12-09CD-4009-8A88-855E7BE9BFB1-79903-0001845F4D50D5D7</string>
 	<key>oidCounter</key>
-	<integer>54</integer>
+	<integer>287</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -411,6 +411,31 @@
 				<key>resources</key>
 				<array>
 					<string>Pasted-11.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>annotation</string>
+				<key>oid</key>
+				<string>277</string>
+				<key>resources</key>
+				<array>
+					<string>an.m4v</string>
+					<string>annotation.mov</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>an-1</string>
+				<key>oid</key>
+				<string>283</string>
+				<key>resources</key>
+				<array>
+					<string>an-1.m4v</string>
 				</array>
 			</dict>
 		</array>
@@ -656,6 +681,151 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2017-11-23T00:13:49Z</date>
+				<key>fileSize</key>
+				<integer>79522</integer>
+				<key>md5</key>
+				<string>94F96C9D3A375D23D64D4BF89B7CF0ED</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/fiwu/Downloads/an.m4v</string>
+				<key>resourceName</key>
+				<string>an.m4v</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va7QCAAAAAAQQMAAAALXCaFq/n98tqKEIZP1aYTwL
+				JMZTiynUDWEZVzaN/Th/sAEAAAQAAAADAwAAAAkAKAUA
+				AAABAQAAVXNlcnMAAAAEAAAAAQEAAGZpd3UJAAAAAQEA
+				AERvd25sb2FkcwAAAAYAAAABAQAAYW4ubTR2AAAQAAAA
+				AQYAABAAAAAgAAAALAAAAEAAAAAIAAAABAMAADlgBgAA
+				AAAACAAAAAQDAACHwAYAAAAAAAgAAAAEAwAAisAGAAAA
+				AAAIAAAABAMAACBr/gAAAAAAEAAAAAEGAABoAAAAeAAA
+				AIgAAACYAAAACAAAAAAEAABBv8ZKPAAAABgAAAABAgAA
+				AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAC
+				AAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTov
+				Ly8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAAAA
+				MnQAAAAIAAAAAAQAAEG8NfxjAAAAJAAAAAEBAAA4RkMz
+				MUE5RC1DM0RDLTM4RTYtQjM2Ny1FMUFENjQwNTMzRkMY
+				AAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEA
+				AAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAA
+				ABAAAAAEEAAAUAAAAAAAAAAFEAAAqAAAAAAAAAAQEAAA
+				0AAAAAAAAABAEAAAwAAAAAAAAAACIAAAnAEAAAAAAAAF
+				IAAADAEAAAAAAAAQIAAAHAEAAAAAAAARIAAAUAEAAAAA
+				AAASIAAAMAEAAAAAAAATIAAAQAEAAAAAAAAgIAAAfAEA
+				AAAAAAAwIAAAqAEAAAAAAAABwAAA8AAAAAAAAAARwAAA
+				IAAAAAAAAAASwAAAAAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2017-11-23T00:09:51Z</date>
+				<key>fileSize</key>
+				<integer>10299</integer>
+				<key>md5</key>
+				<string>8D03E71F1181ABE94B62014F34C11B59</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/fiwu/Downloads/an.m4v</string>
+				<key>resourceName</key>
+				<string>an-1.m4v</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va7QCAAAAAAQQMAAAAKISp5XjS0N2OjqiSpLsvTvp
+				pa8wPPcObrdY7vbhTwoHsAEAAAQAAAADAwAAAAkAKAUA
+				AAABAQAAVXNlcnMAAAAEAAAAAQEAAGZpd3UJAAAAAQEA
+				AERvd25sb2FkcwAAAAYAAAABAQAAYW4ubTR2AAAQAAAA
+				AQYAABAAAAAgAAAALAAAAEAAAAAIAAAABAMAADlgBgAA
+				AAAACAAAAAQDAACHwAYAAAAAAAgAAAAEAwAAisAGAAAA
+				AAAIAAAABAMAAEBp/gAAAAAAEAAAAAEGAABoAAAAeAAA
+				AIgAAACYAAAACAAAAAAEAABBv8ZJGgAAABgAAAABAgAA
+				AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAC
+				AAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTov
+				Ly8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAAAA
+				MnQAAAAIAAAAAAQAAEG8NfxjAAAAJAAAAAEBAAA4RkMz
+				MUE5RC1DM0RDLTM4RTYtQjM2Ny1FMUFENjQwNTMzRkMY
+				AAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEA
+				AAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAA
+				ABAAAAAEEAAAUAAAAAAAAAAFEAAAqAAAAAAAAAAQEAAA
+				0AAAAAAAAABAEAAAwAAAAAAAAAACIAAAnAEAAAAAAAAF
+				IAAADAEAAAAAAAAQIAAAHAEAAAAAAAARIAAAUAEAAAAA
+				AAASIAAAMAEAAAAAAAATIAAAQAEAAAAAAAAgIAAAfAEA
+				AAAAAAAwIAAAqAEAAAAAAAABwAAA8AAAAAAAAAARwAAA
+				IAAAAAAAAAASwAAAAAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2017-11-22T23:54:02Z</date>
+				<key>fileSize</key>
+				<integer>1178894</integer>
+				<key>md5</key>
+				<string>19D5A4324EB65BAFD5FBA3F0A48CB669</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Users/fiwu/Downloads/annotation.mov</string>
+				<key>resourceName</key>
+				<string>annotation.mov</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va7wCAAAAAAQQMAAAAOl7NoGcd90q+djAxuFvgZSP
+				EvlFvSQZ0qU0kbfNRBSnuAEAAAQAAAADAwAAAAkAKAUA
+				AAABAQAAVXNlcnMAAAAEAAAAAQEAAGZpd3UJAAAAAQEA
+				AERvd25sb2FkcwAAAA4AAAABAQAAYW5ub3RhdGlvbi5t
+				b3YAABAAAAABBgAAEAAAACAAAAAsAAAAQAAAAAgAAAAE
+				AwAAOWAGAAAAAAAIAAAABAMAAIfABgAAAAAACAAAAAQD
+				AACKwAYAAAAAAAgAAAAEAwAAhGP+AAAAAAAQAAAAAQYA
+				AHAAAACAAAAAkAAAAKAAAAAIAAAAAAQAAEG/xkWaAAAA
+				GAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAI
+				AAAABAMAAAIAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJ
+				AABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAA
+				AAQDAAAAAAAydAAAAAgAAAAABAAAQbw1/GMAAAAkAAAA
+				AQEAADhGQzMxQTlELUMzREMtMzhFNi1CMzY3LUUxQUQ2
+				NDA1MzNGQxgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAA
+				AAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v//
+				/wEAAAAAAAAAEAAAAAQQAABYAAAAAAAAAAUQAACwAAAA
+				AAAAABAQAADYAAAAAAAAAEAQAADIAAAAAAAAAAIgAACk
+				AQAAAAAAAAUgAAAUAQAAAAAAABAgAAAkAQAAAAAAABEg
+				AABYAQAAAAAAABIgAAA4AQAAAAAAABMgAABIAQAAAAAA
+				ACAgAACEAQAAAAAAADAgAACwAQAAAAAAAAHAAAD4AAAA
+				AAAAABHAAAAgAAAAAAAAABLAAAAIAQAAAAAAABDQAAAE
+				AAAAAAAAAA==
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneContainers</key>
@@ -675,7 +845,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>6</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -737,9 +907,7 @@
 			<key>documentIdentifier</key>
 			<string>745F2B5D-A751-4A8E-9188-8833E18571AF-79903-000184463615CE40</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>21</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -1620,7 +1788,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>14</string>
+							<string>15</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1864,6 +2032,127 @@
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>264px</string>
+						</dict>
+					</array>
+					<key>285</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Controls</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>VideoResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>277</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>video</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Autoplay</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PlaysInline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Video</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>281px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Muted</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>558px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>1086px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>0.336918</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Loop</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>16</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>188px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>annotation</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>558px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>188px</string>
 						</dict>
 					</array>
 					<key>35</key>
@@ -5210,6 +5499,28 @@
 								<key>zIndex</key>
 								<integer>9</integer>
 							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.8</real>
+								<key>identifier</key>
+								<string>Video Track</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>285</string>
+								<key>startTime</key>
+								<real>5.4666666984558105</real>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>a</string>
+								<key>type</key>
+								<integer>1</integer>
+								<key>uuid</key>
+								<string>06E28242-DA3D-483C-AA87-38DE9D45F5AE-79903-0001903CA3E3742B</string>
+								<key>zIndex</key>
+								<integer>6</integer>
+							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
@@ -6546,10 +6857,12 @@
 	<true/>
 	<key>videoExportDuration</key>
 	<real>0.0</real>
+	<key>videoExportFramerateGif</key>
+	<string>15</string>
 	<key>videoExportLoopPlayback</key>
 	<true/>
 	<key>videoExportScale</key>
-	<real>0.0</real>
+	<real>1</real>
 	<key>viewportOption</key>
 	<integer>0</integer>
 	<key>webAppCapable</key>
